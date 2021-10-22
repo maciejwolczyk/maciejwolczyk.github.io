@@ -21,7 +21,7 @@ News
 - **(September 2021)** Two of my papers, [Zero Time Waste](https://arxiv.org/abs/2106.05409) and [Continual World](https://arxiv.org/abs/2105.10919) have been accepted to the NeurIPS 2021 conference as poster presentations.
 - **(September 2021)** A paper on [closed-loop imitation learning](https://arxiv.org/abs/2109.13333) for self-driving cars, which I worked on during my internship at Woven Planet, has been accepted to CORL 2021 conference.
 - **(July 2021)** I have been named a "best reviewer" (top 10% best scored reviewers) at ICML 2021.
-- **(April 2021)** Our proposal for funding a ML & neuro summer school has been accepted in the Nawa Spinaker program! The school is planned for June 2022 in Kraków.
+- **(April 2021)** Our proposal for funding a [ML & neuro summer school](https://gmum.net/summer_school.html) has been accepted in the Nawa Spinaker program! The school is planned for June 2022 in Kraków.
 - **(April 2021)** Started my internship at Woven Planet Level-5 (previously Lyft Level-5), working on imitation learning for planning in self-driving cars.
 - **(February 2021)** Presented my student abstract on [investigating the role of batch size](https://ojs.aaai.org/index.php/AAAI/article/view/17958) in experience replay methods for continual learning at AAAI 2021. 
 - **(August 2020)** My paper on [conditional semi-supervised generation with mixtures of Gaussians](https://arxiv.org/abs/1906.09333) has been published in IEEE Transactions on Neural Networks and Learning Systems. 
