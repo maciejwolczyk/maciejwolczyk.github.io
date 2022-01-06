@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1 id="aboutme"> About me </h1>
+
+<span style="color: #4285f4">**[January 2022] I'm currently looking for a summer internship in academia, preferably focusing on continual learning.**</span> I might be able to provide my own funding. Reach out to me at maciej.wolczyk@gmail.com!
 
 I'm a PhD student at the Jagiellonian University, working on machine learning with the [GMUM](https://gmum.net) group under supervision of Prof. Jacek Tabor. My main research interests are centered around the issue of efficiency in deep learning, highlighting the following questions in particular:
 - Continual Learning -- how to remember the past and reuse it efficiently when learning from a stream of data.
@@ -16,16 +20,50 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
 - Imitation Learning -- how to combat distribution shift when learning from expert data.
 
 
-News
-======
-- **(September 2021)** Two of my papers, [Zero Time Waste](https://arxiv.org/abs/2106.05409) and [Continual World](https://arxiv.org/abs/2105.10919) have been accepted to the NeurIPS 2021 conference as poster presentations.
-- **(September 2021)** A paper on [closed-loop imitation learning](https://arxiv.org/abs/2109.13333) for self-driving cars, which I worked on during my internship at Woven Planet, has been accepted to CORL 2021 conference.
-- **(July 2021)** I have been named a "best reviewer" (top 10% best scored reviewers) at ICML 2021.
-- **(April 2021)** Our proposal for funding a [ML & neuro summer school](https://gmum.net/summer_school.html) has been accepted in the Nawa Spinaker program! The school is planned for June 2022 in Kraków.
+<h1 id="news"> News </h1>
+- **(December 2021)** [PluGeN](https://arxiv.org/abs/2109.09011), our paper on introducing supervision to pre-trained, was accepted to AAAI 2022.
+- **(September 2021)** Two of our papers, [Zero Time Waste](https://arxiv.org/abs/2106.05409) and [Continual World](https://arxiv.org/abs/2105.10919) were accepted to the NeurIPS 2021 conference as poster presentations.
+- **(September 2021)** A paper on [closed-loop imitation learning](https://arxiv.org/abs/2109.13333) for self-driving cars, which I worked on during my internship at Woven Planet, was accepted to CORL 2021 conference.
+- **(July 2021)** I was named a "best reviewer" (top 10% best scored reviewers) at ICML 2021.
+- **(April 2021)** Our proposal for funding a [ML & neuro summer school](https://gmum.net/summer_school.html) was accepted in the Nawa Spinaker program! The school is planned for June 2022 in Kraków.
 - **(April 2021)** Started my internship at Woven Planet Level-5 (previously Lyft Level-5), working on imitation learning for planning in self-driving cars.
 - **(February 2021)** Presented my student abstract on [investigating the role of batch size](https://ojs.aaai.org/index.php/AAAI/article/view/17958) in experience replay methods for continual learning at AAAI 2021. 
-- **(August 2020)** My paper on [conditional semi-supervised generation with mixtures of Gaussians](https://arxiv.org/abs/1906.09333) has been published in IEEE Transactions on Neural Networks and Learning Systems. 
+- **(August 2020)** Our paper on [conditional semi-supervised generation with mixtures of Gaussians](https://arxiv.org/abs/1906.09333) was published in IEEE Transactions on Neural Networks and Learning Systems. 
 - **(July 2020)** Co-organized the [EEML 2020 summer school](https://www.eeml.eu/previous-editions/eeml2020).
 - **(December 2019)** Presented a paper on [biologically-inspired spatial neural networks](https://arxiv.org/abs/1910.02776) at the NeurIPS 2019 workshop "Real Neurons & Hidden Units".
 - **(November 2019)** Co-organized a [tutorial on reinforcement learning](https://github.com/gmum/rl-crash-course) at the MLinPL conference.
 - **(October 2019)** Started my PhD at the Jagiellonian University with GMUM.
+
+
+<h1 id="publications"> Selected publications </h1>
+<div style="margin-bottom: 1em">
+    <img src="/images/plugen.png" alt="Scheme of PluGeN" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
+    <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
+        <strong>PluGeN: Multi-Label Conditional Generation From Pre-Trained Models</strong> <br/>
+        <b>Maciej Wołczyk</b>*, Magdalena Proszewska*, Łukasz Maziarka, Maciej Zięba, Patryk Wielopolski, Rafał Kurczab, Marek Śmieja <br/>
+        <b>AAAI 2022</b> <br/>
+        <a href="https://arxiv.org/abs/2109.09011">[Paper]</a>
+    </div>
+</div>
+
+<div style="margin-bottom: 1em">
+    <img src="/images/ztw.png" alt="Scheme of the Zero Time Waste model" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
+    <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
+        <strong>Zero Time Waste: Recycling Predictions in Early Exit Neural Networks</strong> <br/>
+        <b>Maciej Wołczyk</b>*, Bartosz Wójcik*, Klaudia Bałazy, Igor Podolak, Jacek Tabor, Marek Śmieja, Tomasz Trzciński <br/>
+        <b>NeurIPS 2021</b> <br/>
+        <a href="https://arxiv.org/abs/2106.05409">[Paper]</a> <a href="https://github.com/gmum/Zero-Time-Waste">[Code]</a>
+    </div>
+</div>
+
+
+
+<div style="margin-bottom: 1em">
+    <img src="/images/continual_world.png" alt="CW20 from Continual World" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
+    <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
+        <strong>Continual World: A Robotic Benchmark For Continual Reinforcement Learning</strong> <br/>
+        <b>Maciej Wołczyk</b>*, Michał Zając*, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś <br/>
+        <b>NeurIPS 2021</b> <br/>
+        <a href="https://arxiv.org/abs/2105.10919">[Paper]</a> <a href="https://github.com/awarelab/continual_world">[Code]</a>
+    </div>
+</div>
