@@ -2,7 +2,7 @@
 main:
   - title: "About me"
     url: "#aboutme"
-  - title: "New"
+  - title: "News"
     url: "#news"
   - title: "Selected publications"
     url: "#publications"

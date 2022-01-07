@@ -64,6 +64,6 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
         <strong>Continual World: A Robotic Benchmark For Continual Reinforcement Learning</strong> <br/>
         <b>Maciej Wołczyk</b>*, Michał Zając*, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś <br/>
         <b>NeurIPS 2021</b> <br/>
-        <a href="https://arxiv.org/abs/2105.10919">[Paper]</a> <a href="https://github.com/awarelab/continual_world">[Code]</a>
+        <a href="https://github.com/awarelab/continual_world">[Webpage]</a> <a href="https://arxiv.org/abs/2105.10919">[Paper]</a> <a href="https://github.com/awarelab/continual_world">[Code]</a>
     </div>
 </div>
