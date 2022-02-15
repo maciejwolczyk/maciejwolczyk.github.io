@@ -10,8 +10,6 @@ redirect_from:
 
 <h1 id="aboutme"> About me </h1>
 
-<span style="color: #4285f4">**[January 2022] I'm currently looking for a summer internship in academia, preferably focusing on continual learning.**</span> I might be able to provide my own funding. Reach out to me at maciej.wolczyk@gmail.com!
-
 I'm a PhD student at the Jagiellonian University, working on machine learning with the [GMUM](https://gmum.net) group under supervision of Prof. Jacek Tabor. My main research interests are centered around the issue of efficiency in deep learning, highlighting the following questions in particular:
 - Continual Learning -- how to remember the past and reuse it efficiently when learning from a stream of data.
 - Conditional Computation  -- how to adapt the computing power of the model to a given example.
