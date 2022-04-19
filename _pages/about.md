@@ -19,7 +19,7 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
 
 
 <h1 id="news"> News </h1>
-- **(March 2022)** Started a research internship with [João Sacramento](http://www.joaosacramento.com/) at ETH Zurich.
+- **(March 2022)** Started a research internship with [João Sacramento](http://www.joaosacramento.com/) at ETH Zurich!
 - **(December 2021)** [PluGeN](https://arxiv.org/abs/2109.09011), our paper on introducing supervision to pre-trained, was accepted to AAAI 2022.
 - **(September 2021)** Two of our papers, [Zero Time Waste](https://arxiv.org/abs/2106.05409) and [Continual World](https://arxiv.org/abs/2105.10919) were accepted to the NeurIPS 2021 conference as poster presentations.
 - **(September 2021)** A paper on [closed-loop imitation learning](https://arxiv.org/abs/2109.13333) for self-driving cars, which I worked on during my internship at Woven Planet, was accepted to CORL 2021 conference.
