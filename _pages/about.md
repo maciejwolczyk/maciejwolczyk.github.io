@@ -19,8 +19,8 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
 
 
 <h1 id="news"> News </h1>
-- **(May 2022))** Our paper on continual learning with weight interval regularization has been accepted to ICML 2022 as a short presentation. More details soon.
-- **(March 2022))** Our [workshop on Dynamic Neural Networks](https://dynn-icml2022.github.io/) has been accepted to ICML 2022. See you in Baltimore!
+- **(May 2022)** Our paper on continual learning with weight interval regularization has been accepted to ICML 2022 as a short presentation. More details soon.
+- **(March 2022)** Our [workshop on Dynamic Neural Networks](https://dynn-icml2022.github.io/) has been accepted to ICML 2022. See you in Baltimore!
 - **(March 2022)** Started a research internship with [João Sacramento](http://www.joaosacramento.com/) at ETH Zurich!
 - **(December 2021)** [PluGeN](https://arxiv.org/abs/2109.09011), our paper on introducing supervision to pre-trained, was accepted to AAAI 2022.
 - **(September 2021)** Two of our papers, [Zero Time Waste](https://arxiv.org/abs/2106.05409) and [Continual World](https://arxiv.org/abs/2105.10919) were accepted to the NeurIPS 2021 conference as poster presentations.
