@@ -19,7 +19,7 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
 
 
 <h1 id="news"> News </h1>
-- **(July 2022)** [MLSS^N](https://mlss.mlinpl.org/) was wonderful! Check out [the lectures](https://www.youtube.com/playlist?list=PL3aJIq_dM1xUpQxVgP4AySZAJtdVx-2qI) and stay tuned, as we're already working on the next edition!
+- **(July 2022)** [MLSS^N](https://mlss.mlinpl.org/) was terrific! Many thanks to all lecturers, co-organizers and participants. Check out [the lectures](https://www.youtube.com/playlist?list=PL3aJIq_dM1xUpQxVgP4AySZAJtdVx-2qI) and stay tuned, as we're already working on the next edition!
 - **(May 2022)** Our paper on [continual learning with weight interval regularization](https://arxiv.org/abs/2206.07996) has been accepted to ICML 2022 as a short presentation.
 - **(March 2022)** Our [workshop on Dynamic Neural Networks](https://dynn-icml2022.github.io/) has been accepted to ICML 2022. See you in Baltimore!
 - **(March 2022)** Started a research internship with [João Sacramento](http://www.joaosacramento.com/) at ETH Zurich!
