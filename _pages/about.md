@@ -43,8 +43,8 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
     <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
         <strong>Continual Learning with Guarantees via Weight Interval Constraints </strong> <br/>
         <b>Maciej Wołczyk</b>*, Karol Piczak*, Bartosz Wójcik, Łukasz Pustelnik, Paweł Morawiecki, Jacek Tabor, Tomasz Trzciński, Przemysław Spurek <br/>
-        <b>AAAI 2022</b> <br/>
-        <a href="https://arxiv.org/abs/2206.07996">[Paper]</a>
+        <b>ICML 2022</b> <br/>
+        <a href="https://arxiv.org/abs/2206.07996">[Paper]</a><a href="https://github.com/gmum/InterContiNet">[Code]</a>
     </div>
 </div>
 
@@ -54,7 +54,7 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
         <strong>PluGeN: Multi-Label Conditional Generation From Pre-Trained Models</strong> <br/>
         <b>Maciej Wołczyk</b>*, Magdalena Proszewska*, Łukasz Maziarka, Maciej Zięba, Patryk Wielopolski, Rafał Kurczab, Marek Śmieja <br/>
         <b>AAAI 2022</b> <br/>
-        <a href="https://arxiv.org/abs/2109.09011">[Paper]</a>
+        <a href="https://arxiv.org/abs/2109.09011">[Paper]</a><a href="https://github.com/gmum/plugen">[Code]</a>
     </div>
 </div>
 
