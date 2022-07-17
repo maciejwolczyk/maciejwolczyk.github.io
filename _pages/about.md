@@ -44,7 +44,7 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
         <strong>Continual Learning with Guarantees via Weight Interval Constraints </strong> <br/>
         <b>Maciej Wołczyk</b>*, Karol Piczak*, Bartosz Wójcik, Łukasz Pustelnik, Paweł Morawiecki, Jacek Tabor, Tomasz Trzciński, Przemysław Spurek <br/>
         <b>AAAI 2022</b> <br/>
-        <a href="https://arxiv.org/abs/2109.09011">[Paper]</a>
+        <a href="https://arxiv.org/abs/2206.07996">[Paper]</a>
     </div>
 </div>
 
