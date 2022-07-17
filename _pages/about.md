@@ -39,7 +39,7 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
 
 <h1 id="publications"> Selected publications </h1>
 <div style="margin-bottom: 1em">
-    <img src="/images/plugen.png" alt="General idea of InterContiNet" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
+    <img src="/images/intercontinet.png" alt="General idea of InterContiNet" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
     <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
         <strong>Continual Learning with Guarantees via Weight Interval Constraints </strong> <br/>
         <b>Maciej Wołczyk</b>*, Karol Piczak*, Bartosz Wójcik, Łukasz Pustelnik, Paweł Morawiecki, Jacek Tabor, Tomasz Trzciński, Przemysław Spurek <br/>
