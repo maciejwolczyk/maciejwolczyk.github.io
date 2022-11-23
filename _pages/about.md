@@ -19,8 +19,8 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
 
 
 <h1 id="news"> News </h1>
-- **(November 2022)** I will be at NeurIPS to present our work on Disentangling Transfer in Continual Reinforcement Learning. If you'll also be there and you want to grab a coffee together, send me an e-mail or a Twitter DM!
-- **(August 2022)** Our [textbook on introduction to deep learning](https://helion.pl/ksiazki/glebokie-uczenie-wprowadzenie-jacek-tabor-marek-smieja-lukasz-struski-przemys,glucze.htm#format/d) is finally out! Unfortunately, only in Polsih for the time being.
+- **(November 2022)** I will be at NeurIPS to present our work on [Disentangling Transfer in Continual Reinforcement Learning](https://arxiv.org/abs/2209.13900). If you'll also be there and you want to grab a coffee together, send me an e-mail or a Twitter DM!
+- **(August 2022)** Our [textbook on introduction to deep learning](https://helion.pl/ksiazki/glebokie-uczenie-wprowadzenie-jacek-tabor-marek-smieja-lukasz-struski-przemys,glucze.htm#format/d) is finally out! Unfortunately, only in Polish for the time being.
 - **(July 2022)** [MLSS^N](https://mlss.mlinpl.org/) was terrific! Many thanks to all lecturers, co-organizers and participants. Check out [the lectures](https://www.youtube.com/playlist?list=PL3aJIq_dM1xUpQxVgP4AySZAJtdVx-2qI) and stay tuned, as we're already working on the next edition!
 - **(May 2022)** Our paper on [continual learning with weight interval regularization](https://arxiv.org/abs/2206.07996) has been accepted to ICML 2022 as a short presentation.
 - **(March 2022)** Our [workshop on Dynamic Neural Networks](https://dynn-icml2022.github.io/) has been accepted to ICML 2022. See you in Baltimore!
