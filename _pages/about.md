@@ -12,10 +12,9 @@ redirect_from:
 
 I'm a PhD student at the Jagiellonian University, working on machine learning with the [GMUM](https://gmum.net) group under supervision of Prof. Jacek Tabor. My main research interests are centered around the issue of efficiency in deep learning, highlighting the following questions in particular:
 - Continual Learning -- how to remember the past and reuse it efficiently when learning from a stream of data.
+- Reinforcement Learning  -- how to increase the sample efficiency and leverage models pre-trained on offline data.
 - Conditional Computation  -- how to adapt the computing power of the model to a given example.
 - Generative Models -- how to perform weakly supervised conditional generation and adapt existing models for conditional generation.
-- Reinforcement Learning  -- how to increase the sample efficiency and leverage privilged data during training.
-- Imitation Learning -- how to combat distribution shift when learning from expert data.
 
 
 <h1 id="news"> News </h1>
