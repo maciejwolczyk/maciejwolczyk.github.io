@@ -41,6 +41,16 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
 
 <h1 id="publications"> Selected publications </h1>
 <div style="margin-bottom: 1em">
+    <img src="/images/disentangling_transfer.png" alt="Example transfer matrix from the paper" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
+    <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
+        <strong>Disentangling Transfer in Continual Reinforcement Learning</strong> <br/>
+        <b>Maciej Wołczyk</b>*, Michał Zając*, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś<br/>
+        <b>NeurIPS 2022</b> <br/>
+        <a href="https://arxiv.org/abs/2209.13900">[Paper]</a>
+    </div>
+</div>
+
+<div style="margin-bottom: 1em">
     <img src="/images/intercontinet.png" alt="General idea of InterContiNet" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
     <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
         <strong>Continual Learning with Guarantees via Weight Interval Constraints </strong> <br/>
