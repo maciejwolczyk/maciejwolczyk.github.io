@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 id="aboutme"> About me </h1>
 
-I'm a PhD student at the Jagiellonian University, working on machine learning with the [GMUM](https://gmum.net) group under supervision of Prof. Jacek Tabor. My main research interests are centered around the issue of efficiency in deep learning, highlighting the following questions in particular:
+I'm a post-doc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervision of [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). My main research interests are centered around the issue of efficiency in deep learning, highlighting the following questions in particular:
 - Continual Learning -- how to remember the past and reuse it efficiently when learning from a stream of data.
 - Reinforcement Learning  -- how to increase the sample efficiency and leverage models pre-trained on offline data.
 - Conditional Computation  -- how to adapt the computing power of the model to a given example.
@@ -18,23 +18,21 @@ I'm a PhD student at the Jagiellonian University, working on machine learning wi
 
 
 <h1 id="news"> News </h1>
+- **(October 2023)**  Started work as a post-doc at IDEAS NCBR!
+- **(June 2023)**  Submitted my PhD thesis, awaiting reviews! Went on a break to recharge my batteries.
+- **(June 2023)** Our paper on [world models in continual reinforcement learning](https://arxiv.org/abs/2211.15944) was accepted to CoLLAs 2023.
+- **(January 2023)** I had the chance to present my work on continual reinforcement learning at [the Warsaw.ai meetup](https://youtu.be/p_gHN2cwoYQ?si=d-DzahxY9St2kXN2&t=1540).
 - **(November 2022)** I will be at NeurIPS to present our work on [Disentangling Transfer in Continual Reinforcement Learning](https://arxiv.org/abs/2209.13900). If you'll also be there and you want to grab a coffee together, send me an e-mail or a Twitter DM!
-- **(August 2022)** Our [textbook on introduction to deep learning](https://helion.pl/ksiazki/glebokie-uczenie-wprowadzenie-jacek-tabor-marek-smieja-lukasz-struski-przemys,glucze.htm#format/d) is finally out! Unfortunately, only in Polish for the time being.
-- **(July 2022)** [MLSS^N](https://mlss.mlinpl.org/) was terrific! Many thanks to all lecturers, co-organizers and participants. Check out [the lectures](https://www.youtube.com/playlist?list=PL3aJIq_dM1xUpQxVgP4AySZAJtdVx-2qI) and stay tuned, as we're already working on the next edition!
+- **(July 2022)** [MLSS^N](https://mlss.mlinpl.org/) was terrific! Many thanks to all lecturers, co-organizers and participants. Check out [the lectures](https://www.youtube.com/playlist?list=PL3aJIq_dM1xUpQxVgP4AySZAJtdVx-2qI)!
 - **(May 2022)** Our paper on [continual learning with weight interval regularization](https://arxiv.org/abs/2206.07996) has been accepted to ICML 2022 as a short presentation.
 - **(March 2022)** Our [workshop on Dynamic Neural Networks](https://dynn-icml2022.github.io/) has been accepted to ICML 2022. See you in Baltimore!
 - **(March 2022)** Started a research internship with [João Sacramento](http://www.joaosacramento.com/) at ETH Zurich!
 - **(December 2021)** [PluGeN](https://arxiv.org/abs/2109.09011), our paper on introducing supervision to pre-trained, was accepted to AAAI 2022.
 - **(September 2021)** Two of our papers, [Zero Time Waste](https://arxiv.org/abs/2106.05409) and [Continual World](https://arxiv.org/abs/2105.10919) were accepted to the NeurIPS 2021 conference as poster presentations.
 - **(September 2021)** A paper on [closed-loop imitation learning](https://arxiv.org/abs/2109.13333) for self-driving cars, which I worked on during my internship at Woven Planet, was accepted to CORL 2021 conference.
-- **(July 2021)** I was named a "best reviewer" (top 10% best scored reviewers) at ICML 2021.
-- **(April 2021)** Our proposal for funding a [ML & neuro summer school](https://gmum.net/summer_school.html) was accepted in the Nawa Spinaker program! The school is planned for June 2022 in Kraków.
 - **(April 2021)** Started my internship at Woven Planet Level-5 (previously Lyft Level-5), working on imitation learning for planning in self-driving cars.
-- **(February 2021)** Presented my student abstract on [investigating the role of batch size](https://ojs.aaai.org/index.php/AAAI/article/view/17958) in experience replay methods for continual learning at AAAI 2021. 
 - **(August 2020)** Our paper on [conditional semi-supervised generation with mixtures of Gaussians](https://arxiv.org/abs/1906.09333) was published in IEEE Transactions on Neural Networks and Learning Systems. 
 - **(July 2020)** Co-organized the [EEML 2020 summer school](https://www.eeml.eu/previous-editions/eeml2020).
-- **(December 2019)** Presented a paper on [biologically-inspired spatial neural networks](https://arxiv.org/abs/1910.02776) at the NeurIPS 2019 workshop "Real Neurons & Hidden Units".
-- **(November 2019)** Co-organized a [tutorial on reinforcement learning](https://github.com/gmum/rl-crash-course) at the MLinPL conference.
 - **(October 2019)** Started my PhD at the Jagiellonian University with GMUM.
 
 
