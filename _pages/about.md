@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 id="aboutme"> About me </h1>
 
-I'm a post-doc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervision of [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). My main research interests are centered around the issue of efficiency in deep learning, highlighting the following questions in particular:
+I'm a research engineer at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervision of [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). My main research interests are centered around the issue of efficiency in deep learning, highlighting the following questions in particular:
 - Continual Learning -- how to remember the past and reuse it efficiently when learning from a stream of data.
 - Reinforcement Learning  -- how to increase the sample efficiency and leverage models pre-trained on offline data.
 - Conditional Computation  -- how to adapt the computing power of the model to a given example.
@@ -18,7 +18,7 @@ I'm a post-doc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervision of [
 
 
 <h1 id="news"> News </h1>
-- **(October 2023)**  Started work as a post-doc at IDEAS NCBR!
+- **(October 2023)**  Started work as a research engineer at IDEAS NCBR! Hopefully, the job title will change to "post-doc" soon :)
 - **(June 2023)**  Submitted my PhD thesis, awaiting reviews! Went on a break to recharge my batteries.
 - **(June 2023)** Our paper on [world models in continual reinforcement learning](https://arxiv.org/abs/2211.15944) was accepted to CoLLAs 2023.
 - **(January 2023)** I had the chance to present my work on continual reinforcement learning at [the Warsaw.ai meetup](https://youtu.be/p_gHN2cwoYQ?si=d-DzahxY9St2kXN2&t=1540).
