@@ -10,14 +10,17 @@ redirect_from:
 
 <h1 id="aboutme"> About me </h1>
 
-I'm a research engineer at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervision of [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). My main research interests are centered around the issue of efficiency in deep learning, highlighting the following questions in particular:
-- Continual Learning -- how to remember the past and reuse it efficiently when learning from a stream of data.
+I'm a post-doc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervision of [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). I'm interested in:
+- Sequential Decision Making -- how to use models such as RNNs, transformers, and state-space models in RL and beyond.
 - Reinforcement Learning  -- how to increase the sample efficiency and leverage models pre-trained on offline data.
-- Conditional Computation  -- how to adapt the computing power of the model to a given example.
+- Continual Learning -- how to remember the past and reuse it efficiently when learning from a stream of data.
 - Generative Models -- how to perform weakly supervised conditional generation and adapt existing models for conditional generation.
 
 
 <h1 id="news"> News </h1>
+- **(February 2024)** Our [paper on the issue of forgetting in RL fine-tuning](https://arxiv.org/abs/2402.02868) is out! Also, check out [this talk](https://www.youtube.com/watch?v=seB93xaHhiM) given by Bartek, my amazing co-author.
+- **(February 2024)** I defended my PhD thesis with distinction! Huge thanks to my supervisor, prof. Jacek Tabor and everyone who helped me along the way.
+- **(January 2024)** A [work on compositional generalization and modularity](https://openreview.net/forum?id=H98CVcX1eh) I helped with was accepted at ICLR 2024. Congrats to the whole team!
 - **(October 2023)**  Started work as a research engineer at IDEAS NCBR! Hopefully, the job title will change to "post-doc" soon :)
 - **(June 2023)**  Submitted my PhD thesis, awaiting reviews! Went on a break to recharge my batteries.
 - **(June 2023)** Our paper on [world models in continual reinforcement learning](https://arxiv.org/abs/2211.15944) was accepted to CoLLAs 2023.
@@ -33,7 +36,6 @@ I'm a research engineer at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervi
 - **(April 2021)** Started my internship at Woven Planet Level-5 (previously Lyft Level-5), working on imitation learning for planning in self-driving cars.
 - **(August 2020)** Our paper on [conditional semi-supervised generation with mixtures of Gaussians](https://arxiv.org/abs/1906.09333) was published in IEEE Transactions on Neural Networks and Learning Systems. 
 - **(July 2020)** Co-organized the [EEML 2020 summer school](https://www.eeml.eu/previous-editions/eeml2020).
-- **(October 2019)** Started my PhD at the Jagiellonian University with GMUM.
 
 
 <h1 id="publications"> Selected publications </h1>
