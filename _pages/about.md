@@ -43,7 +43,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
 
 <h1 id="publications"> Selected publications </h1>
 <div style="margin-bottom: 1em">
-    <img src="/images/finetuning_rl.png" alt="Illustration of forgetting in RL" style="height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
+    <img src="/images/finetuning_rl.png" alt="Illustration of forgetting in RL" style="max-height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
     <div style="display: block; padding: 10px; vertical-align: middle; width: 100%">
         <strong>Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem</strong> <br/>
         <b>Maciej Wołczyk</b>*, Bartłomiej Cupiał*, Mateusz Ostaszewski, Michał Bortkiewicz, Michał Zając, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś<br/>
@@ -54,7 +54,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
 
 
 <div style="margin-bottom: 1em">
-    <img src="/images/adaglimpse.png" alt="Scheme of the AdaGlimpse methods" style="height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
+    <img src="/images/adaglimpse.png" alt="Scheme of the AdaGlimpse methods" style="max-height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
     <div style="display: block; padding: 10px; vertical-align: middle; width: 100%">
         <strong>AdaGlimpse: Active Visual Exploration with Arbitrary Glimpse Position and Scale
 </strong> <br/>
@@ -65,7 +65,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
 </div>
 
 <div style="margin-bottom: 1em">
-    <img src="/images/disentangling_transfer.png" alt="Example transfer matrix from the paper" style="height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
+    <img src="/images/disentangling_transfer.png" alt="Example transfer matrix from the paper" style="max-height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
     <div style="display: block; padding: 10px; vertical-align: middle; width: 100%">
         <strong>Disentangling Transfer in Continual Reinforcement Learning</strong> <br/>
         <b>Maciej Wołczyk</b>*, Michał Zając*, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś<br/>
@@ -75,7 +75,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
 </div>
 
 <div style="margin-bottom: 1em">
-    <img src="/images/intercontinet.png" alt="General idea of InterContiNet" style="height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
+    <img src="/images/intercontinet.png" alt="General idea of InterContiNet" style="max-height: 200px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
     <div style="display: block; padding: 10px; vertical-align: middle; width: 100%">
         <strong>Continual Learning with Guarantees via Weight Interval Constraints </strong> <br/>
         <b>Maciej Wołczyk</b>*, Karol Piczak*, Bartosz Wójcik, Łukasz Pustelnik, Paweł Morawiecki, Jacek Tabor, Tomasz Trzciński, Przemysław Spurek <br/>
@@ -85,7 +85,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
 </div>
 
 <div style="margin-bottom: 1em">
-    <img src="/images/plugen.png" alt="Scheme of PluGeN" style="height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
+    <img src="/images/plugen.png" alt="Scheme of PluGeN" style="max-height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
     <div style="display: block; padding: 10px; vertical-align: middle; width: 100%">
         <strong>PluGeN: Multi-Label Conditional Generation From Pre-Trained Models</strong> <br/>
         <b>Maciej Wołczyk</b>*, Magdalena Proszewska*, Łukasz Maziarka, Maciej Zięba, Patryk Wielopolski, Rafał Kurczab, Marek Śmieja <br/>
@@ -95,7 +95,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
 </div>
 
 <div style="margin-bottom: 1em">
-    <img src="/images/ztw.png" alt="Scheme of the Zero Time Waste model" style="height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
+    <img src="/images/ztw.png" alt="Scheme of the Zero Time Waste model" style="max-height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
     <div style="display: block; padding: 10px; vertical-align: middle; width: 100%">
         <strong>Zero Time Waste: Recycling Predictions in Early Exit Neural Networks</strong> <br/>
         <b>Maciej Wołczyk</b>*, Bartosz Wójcik*, Klaudia Bałazy, Igor Podolak, Jacek Tabor, Marek Śmieja, Tomasz Trzciński <br/>
@@ -106,7 +106,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
 
 
 <div style="margin-bottom: 1em">
-    <img src="/images/continual_world.png" alt="CW20 from Continual World" style="height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
+    <img src="/images/continual_world.png" alt="CW20 from Continual World" style="max-height: 250px;display: block;vertical-align: middle;padding: 5px;margin-left: auto;margin-right: auto;">
     <div style="display: block; padding: 10px; vertical-align: middle; width: 100%">
         <strong>Continual World: A Robotic Benchmark For Continual Reinforcement Learning</strong> <br/>
         <b>Maciej Wołczyk</b>*, Michał Zając*, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś <br/>
