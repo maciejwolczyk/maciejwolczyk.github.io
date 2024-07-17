@@ -10,15 +10,22 @@ redirect_from:
 
 <h1 id="aboutme"> About me </h1>
 
-I'm a post-doc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervision of [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). I'm interested in:
+**I'll be at ICML in Vienna! if you want to meet and chat, send me an e-mail or a Twitter DM. Also, come by and say hi at our poster session on Tuesday, 12:30PM!**
+
+I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decision Making group led by [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). I'm interested primarily in:
 - Sequential Decision Making -- how to use models such as RNNs, transformers, and state-space models in RL and beyond.
-- Reinforcement Learning  -- how to increase the sample efficiency and leverage models pre-trained on offline data.
-- Continual Learning -- how to remember the past and reuse it efficiently when learning from a stream of data.
-- Generative Models -- how to perform weakly supervised conditional generation and adapt existing models for conditional generation.
+- Fine-tuning RL models -- how to harness the power of foundation models in RL by fine-tuning them online.
+- Adaptation in foundation models -- how to use LLMs/VLMs in completely new scenarios.
 
 
 <h1 id="news"> News </h1>
-- **(February 2024)** Our [paper on the issue of forgetting in RL fine-tuning](https://arxiv.org/abs/2402.02868) is out! Also, check out [this talk](https://www.youtube.com/watch?v=seB93xaHhiM) given by Bartek, my amazing co-author.
+<!-- - **(July 2024)** - We talked about work on forgetting in RL fine-tuning at UCL Dark seminar. It was a great experience! You can see [the recording here]().-->
+- **(July 2024)** - Our [paper on Adaptive Visual Exploration](https://arxiv.org/abs/2404.03482) was accepted at ECCV 2024. See you soon in Milan!
+- **(June 2024)** - Check out our [workshop paper](https://arxiv.org/abs/2406.08423) on mixing and retrieving states in State-Space Models! To be presented at the Next Generation Sequence Models workshop at ICML 2024.
+- **(June 2024)** - Bartek Cupiał's and mine [NetHack bug-hunting story](https://twitter.com/CupiaBart/status/1793930355617259811) went viral on Twitter with over 2M views, got featured on [ArsTechnica](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/) and [HackerNews](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/), and even [translated into Japanese](https://gigazine.net/news/20240527-bug-by-full-moon/).
+- **(May 2024)** I'm very proud to have received the [FNP Start scholarship](https://ideas-ncbr.pl/maciej-wolczyk-i-piotr-kicki-wsrod-najlepszych-mlodych-naukowcow-w-polsce/) for talented young researchers!
+- **(May 2024)** Our [paper on the issue of forgetting in RL fine-tuning](https://arxiv.org/abs/2402.02868) was accepted as a spotlight at ICML 2024.
+- **(March 2024)** - I'm very proud to co-organize the [workshop on the Next Generation of Sequential Modelling Architectures at ICML 2024](https://sites.google.com/view/ngsmworkshop).
 - **(February 2024)** I defended my PhD thesis with distinction! Huge thanks to my supervisor, prof. Jacek Tabor and everyone who helped me along the way.
 - **(January 2024)** A [work on compositional generalization and modularity](https://openreview.net/forum?id=H98CVcX1eh) I helped with was accepted at ICLR 2024. Congrats to the whole team!
 - **(October 2023)**  Started work as a research engineer at IDEAS NCBR! Hopefully, the job title will change to "post-doc" soon :)
@@ -39,6 +46,27 @@ I'm a post-doc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) under supervision of [
 
 
 <h1 id="publications"> Selected publications </h1>
+<div style="margin-bottom: 1em">
+    <img src="/images/finetuning_rl.png" alt="Illustration of forgetting in RL" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
+    <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
+        <strong>Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem</strong> <br/>
+        <b>Maciej Wołczyk</b>*, Bartłomiej Cupiał*, Mateusz Ostaszewski, Michał Bortkiewicz, Michał Zając, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś<br/>
+        <b>ICML 2024 Spotlight</b> <br/>
+        <a href="https://arxiv.org/abs/2402.02868">[Paper]</a><a href="https://github.com/BartekCupial/finetuning-RL-as-CL">[Code]</a>
+    </div>
+</div>
+
+<div style="margin-bottom: 1em">
+    <img src="/images/adaglimpse.png" alt="Scheme of the AdaGlimpse methods" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
+    <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
+        <strong>AdaGlimpse: Active Visual Exploration with Arbitrary Glimpse Position and Scale
+</strong> <br/>
+        Adam Pardyl, Michał Wronka, <b>Maciej Wołczyk</b>, Kamil Adamczewski, Tomasz Trzciński, Bartosz Zieliński <br/>
+        <b>ECCV 2024</b> <br/>
+        <a href="https://arxiv.org/abs/2404.03482">[Paper]</a><a href="https://github.com/apardyl/AdaGlimpse">[Code]</a>
+    </div>
+</div>
+
 <div style="margin-bottom: 1em">
     <img src="/images/disentangling_transfer.png" alt="Example transfer matrix from the paper" style="width: 30%; display: inline-block; vertical-align: middle; padding: 5px">
     <div style="display: inline-block; padding: 10px; vertical-align: middle; width: 70%">
