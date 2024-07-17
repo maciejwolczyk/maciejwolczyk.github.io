@@ -15,7 +15,7 @@ redirect_from:
 I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decision Making group led by [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). I'm interested primarily in:
 - Sequential Decision Making -- how to use models such as RNNs, transformers, and state-space models in RL and beyond.
 - Fine-tuning RL models -- how to harness the power of foundation models in RL by fine-tuning them online.
-- Adaptation in foundation models -- how to use LLMs/VLMs in completely new scenarios.
+- Adaptation in foundation models -- how to use LLMs/VLMs in completely new decision-making scenarios.
 
 
 <h1 id="news"> News </h1>
