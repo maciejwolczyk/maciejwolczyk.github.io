@@ -19,7 +19,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
 
 
 <h1 id="news"> News </h1>
-<!-- - **(July 2024)** - We talked about work on forgetting in RL fine-tuning at UCL Dark seminar. It was a great experience! You can see [the recording here]().-->
+- **(July 2024)** - We talked about work on forgetting in RL fine-tuning at UCL Dark seminar. It was a great experience! You can see [the recording here](https://www.youtube.com/watch?v=PzcJeRglfQI).
 - **(July 2024)** - Our [paper on Adaptive Visual Exploration](https://arxiv.org/abs/2404.03482) was accepted at ECCV 2024. See you soon in Milan!
 - **(June 2024)** - Check out our [workshop paper](https://arxiv.org/abs/2406.08423) on mixing and retrieving states in State-Space Models! To be presented at the Next Generation Sequence Models workshop at ICML 2024.
 - **(June 2024)** - Bartek Cupiał's and mine [NetHack bug-hunting story](https://twitter.com/CupiaBart/status/1793930355617259811) went viral on Twitter with over 2M views, got featured on [ArsTechnica](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/) and [HackerNews](https://news.ycombinator.com/item?id=40583965), and even [translated into Japanese](https://gigazine.net/news/20240527-bug-by-full-moon/).
