@@ -10,8 +10,6 @@ redirect_from:
 
 <h1 id="aboutme"> About me </h1>
 
-**I'll be at ICML in Vienna! if you want to meet and chat, send me an e-mail or a Twitter DM. Also, come by and say hi at our poster session on Tuesday, 12:30PM!**
-
 I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decision Making group led by [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). I'm interested primarily in:
 - Sequential Decision Making -- how to use models such as RNNs, transformers, and state-space models in RL and beyond.
 - Fine-tuning RL models -- how to harness the power of foundation models in RL by fine-tuning them online.
@@ -48,7 +46,7 @@ I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decis
         <strong>Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem</strong> <br/>
         <b>Maciej Wołczyk</b>*, Bartłomiej Cupiał*, Mateusz Ostaszewski, Michał Bortkiewicz, Michał Zając, Razvan Pascanu, Łukasz Kuciński, Piotr Miłoś<br/>
         <b>ICML 2024 Spotlight</b> <br/>
-        <a href="https://arxiv.org/abs/2402.02868">[Paper]</a><a href="https://github.com/BartekCupial/finetuning-RL-as-CL">[Code]</a>
+        <a href="https://arxiv.org/abs/2402.02868">[Paper]</a><a href="https://github.com/BartekCupial/finetuning-RL-as-CL">[Code]</a><a href="https://sites.google.com/view/finetune-rl-without-forgetting">[Webpage]</a>
     </div>
 </div>
 
