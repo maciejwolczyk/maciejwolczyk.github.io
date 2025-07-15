@@ -10,13 +10,15 @@ redirect_from:
 
 <h1 id="aboutme"> About me </h1>
 
-I'm a postdoc at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the Sequential Decision Making group led by [Prof. Piotr Miłoś](https://www.mimuw.edu.pl/~pmilos/). I'm interested primarily in:
+I'm a Research Scientist at the Google Paradigms of Intelligence team. I'm interested primarily in:
 - Sequential Decision Making -- how to use models such as RNNs, transformers, and state-space models in RL and beyond.
+- Multi-agent systems -- what systems can drive selfish agents towards cooperation?
 - Fine-tuning RL models -- how to harness the power of foundation models in RL by fine-tuning them online.
 - Adaptation in foundation models -- how to use LLMs/VLMs in completely new decision-making scenarios.
 
 
 <h1 id="news"> News </h1>
+- **(January 2025)** - I joined Google, Paradigms of Intelligence, and moved to Zürich
 - **(July 2024)** - We talked about work on forgetting in RL fine-tuning at UCL Dark seminar. It was a great experience! You can see [the recording here](https://www.youtube.com/watch?v=PzcJeRglfQI).
 - **(July 2024)** - Our [paper on Adaptive Visual Exploration](https://arxiv.org/abs/2404.03482) was accepted at ECCV 2024. See you soon in Milan!
 - **(June 2024)** - Check out our [workshop paper](https://arxiv.org/abs/2406.08423) on mixing and retrieving states in State-Space Models! To be presented at the Next Generation Sequence Models workshop at ICML 2024.
